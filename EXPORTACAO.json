@@ -1,0 +1,10 @@
+{
+  "site": "LIARE",
+  "date": "2026-11-03",
+  "published_version": 128,
+  "source_commit": "17a8b8547d4724a7f9963a72d0fd6643843c1f00",
+  "original_url": "https://www.liarehandmade.com.br",
+  "functionality": "Catálogo, sacola e pedidos por WhatsApp",
+  "vercel_deployed": false,
+  "supabase_configured": false
+}
