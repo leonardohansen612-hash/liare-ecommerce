@@ -1,0 +1,12 @@
+/* Mobile storefront header and unobstructed photographic banner. */
+/* Reserve the full navigation/search height before the mobile home hero. */
+@media(max-width:760px){
+ body.home-page>header{
+  position:relative;
+  top:0;
+  background:linear-gradient(to top,#ffffff18,transparent 65%),linear-gradient(#0004,transparent),var(--accent);
+ }
+}
+.mobile-menu-toggle{display:none}.mobile-menu{position:fixed;inset:0 auto 0 0;margin:0;width:min(340px,88vw);height:100dvh;max-height:100dvh;max-width:100vw;border:0;padding:24px;background:#fff;color:#555;box-sizing:border-box}.mobile-menu::backdrop{background:#0006}.mobile-menu-heading{display:flex;align-items:center;justify-content:space-between;gap:16px;padding-bottom:24px;border-bottom:1px solid #eee}.mobile-menu-close{border:0;background:none;color:#555;width:44px;height:44px;font-size:30px;cursor:pointer}.mobile-menu nav{display:flex;flex-direction:column;padding-top:18px;gap:0}.mobile-menu nav a{display:block;padding:14px 0;font:400 16px/1.5 Lora,Georgia,serif;border-bottom:1px solid #eee}.mobile-menu nav a[aria-current=page]{text-decoration:underline;text-underline-offset:6px}.mobile-menu-open{overflow:hidden}
+@media(max-width:760px){header .nav{display:grid;grid-template-columns:44px minmax(0,1fr) 44px;gap:12px 10px;padding:8px 14px 14px;align-items:center}header .nav>nav,header .nav>.contact{display:none}header .nav>.logo{grid-column:2;grid-row:1;justify-self:center;font-size:22px;line-height:1.3;margin:0;padding-left:.22em}header .nav>.mobile-menu-toggle{display:grid;place-items:center;grid-column:1;grid-row:1;width:44px;height:44px;border:0;background:transparent;color:inherit;padding:8px;cursor:pointer}header .nav>.cart-toggle{grid-column:3;grid-row:1;justify-self:end;position:relative;width:44px;height:44px;padding:8px;justify-content:center;order:initial}header .cart-count{position:absolute;right:-3px;bottom:1px;min-width:16px;height:16px;display:grid;place-items:center;border-radius:50%;background:var(--accent);color:white;font-size:10px;line-height:1}header .nav>.search{grid-column:1/-1;grid-row:2;width:100%;margin:0;order:initial}header .search input{height:44px;padding:10px 14px;font:400 16px/1.5 Inter,Arial,sans-serif}header .search button{min-width:44px}.hero{height:510px}.hero-copy{display:none}.hero-image:after{display:none}.hero-image img{object-position:center}.slide-dots{bottom:14px}.mobile-menu-toggle:focus-visible{outline:2px solid currentColor;outline-offset:-2px}}
+

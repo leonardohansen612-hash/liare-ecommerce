@@ -1,0 +1,16 @@
+/* Product shelf pagination. */
+.shelf-controls.shelf-dots{gap:0;margin-top:14px}.shelf-dots[hidden]{display:none}.shelf-controls.shelf-dots button{display:grid;place-items:center;width:28px;height:28px;padding:0;border:0;border-radius:0;background:none;cursor:pointer}.shelf-dots button:before{content:"";display:block;width:8px;height:8px;border-radius:50%;background:var(--brand-line)}.shelf-dots button[aria-pressed=true]:before{width:18px;border-radius:8px;background:var(--accent)}.shelf-dots button:focus-visible{outline:2px solid var(--accent);outline-offset:-2px}
+
+
+/* A partial next card signals horizontal browsing beyond mobile too. */
+@media (min-width:992px) {
+  .product-shelf .product-track { grid-auto-columns:calc((100% - 96px)/4.25); }
+}
+@media (min-width:761px) and (max-width:991px) {
+  .product-shelf .product-track { grid-auto-columns:calc((100% - 72px)/3.25); }
+}
+.shelf-arrow{position:absolute;top:40%;transform:translateY(-50%);z-index:2;display:grid;place-items:center;width:44px;height:44px;padding:0;border:0;background:transparent;color:var(--accent);cursor:pointer}
+.shelf-arrow-prev{left:-12px}.shelf-arrow-next{right:-12px}
+.shelf-arrow svg{display:block;width:32px;height:32px;padding:8px;border-radius:50%;background:#ffffffe6;box-shadow:0 1px 5px #0002;fill:none;stroke:currentColor;stroke-width:2;stroke-linecap:round;stroke-linejoin:round}
+.shelf-arrow:disabled{opacity:.3;cursor:default}.shelf-arrow[hidden]{display:none}
+.shelf-arrow:focus-visible{outline:2px solid var(--accent);outline-offset:-2px;border-radius:50%}

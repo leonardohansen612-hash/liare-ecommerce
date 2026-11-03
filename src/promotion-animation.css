@@ -1,0 +1,2 @@
+/* Keep promotion slides clipped within the strip. */
+.promo-viewport{display:block;flex:1;min-width:0;overflow:hidden}.promo-viewport .promo-text{display:block;width:100%}

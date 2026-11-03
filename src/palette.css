@@ -1,0 +1,9 @@
+/* Primary brand color is authored once in src/styles/brand-color.txt. */
+:root {
+  --brand-kraft: {{include:styles/brand-color.txt}};
+  --brand-surface: color-mix(in srgb, var(--brand-kraft) 8%, white);
+  --brand-line: color-mix(in srgb, var(--brand-kraft) 22%, white);
+  --brand-ink: color-mix(in srgb, var(--brand-kraft) 75%, #333);
+  --brand-muted: var(--brand-kraft);
+  --accent: var(--brand-kraft);
+}

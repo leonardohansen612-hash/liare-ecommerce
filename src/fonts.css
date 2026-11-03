@@ -1,0 +1,9 @@
+@import url("https://fonts.googleapis.com/css2?family=Cinzel:wght@400;700&family=DM+Sans:wght@400&family=Inter:wght@400;500;600&family=Lora:wght@400;600&family=Montserrat:wght@400&display=swap");
+
+@font-face {
+  font-family: "Catchy Mager";
+  src: url("catchy-mager.otf") format("opentype");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+}

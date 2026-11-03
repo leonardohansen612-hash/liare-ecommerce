@@ -1,0 +1,1224 @@
+[
+  {
+    "name": "Caixa de Descobertas — Aromas Clássicos",
+    "image": "produto-caixa-de-descobertas-aromas-classicos-20261029.webp",
+    "price": {
+      "minValue": {
+        "amount": "110"
+      },
+      "maxValue": {
+        "amount": "110"
+      }
+    },
+    "available": "IN_STOCK",
+    "options": [],
+    "category": "Presentes",
+    "categories": [
+      "Casa",
+      "Presentes",
+      "Latinhas"
+    ],
+    "waxWeightGrams": 270,
+    "aromas": [
+      "Tangerina e Canela",
+      "Doce Lavanda",
+      "Chá Branco",
+      "Baunilha Cremosa",
+      "Pera Silvestre",
+      "Buquê de Peônias"
+    ],
+    "description": "Seis aromas clássicos da LIARE reunidos em uma caixa feita para descobrir os seus favoritos. São seis velas de 45 g em latinhas douradas, uma de cada aroma, acompanhadas de um cartão para guiar essa descoberta. Uma seleção para experimentar diferentes fragrâncias em casa ou presentear com carinho.",
+    "technicalDetails": {
+      "composition": "Seis velas de cera de coco com essência aromática e pavio de madeira.",
+      "container": "6 latinhas de 50 ml, com 45 g cada. Caixa kraft de 24 × 16 × 4 cm com cartão dos aromas.",
+      "production": "Feitas à mão no ateliê LIARE, em Itupeva, SP",
+      "useInstructions": [
+        "Retire a tampa da latinha antes de acender.",
+        "Acenda sobre uma superfície plana, estável e resistente ao calor.",
+        "Espere a cera esfriar completamente antes de fechar a latinha ou guardá-la na caixa."
+      ],
+      "precautions": [
+        "Nunca deixe a vela acesa sem supervisão.",
+        "Mantenha longe de crianças, animais, materiais inflamáveis e correntes de ar.",
+        "Não mova o recipiente enquanto estiver quente ou com cera líquida.",
+        "Não use água para apagar e interrompa o uso antes de a cera se esgotar."
+      ]
+    },
+    "trackInventory": false,
+    "images": [
+      "produto-caixa-de-descobertas-aromas-classicos-20261029.webp"
+    ],
+    "imageLabels": [
+      "Ver a Caixa de Descobertas aberta e fechada, com velas e cartão dos aromas"
+    ],
+    "slug": "caixa-de-descobertas-aromas-classicos",
+    "variantCode": "chatgpt_cb68c2dad4c147a3c23af082"
+  },
+  {
+    "name": "Latinha 45 g — Tangerina e Canela",
+    "image": "produto-latinha-45g-tangerina-e-canela-20261029.webp",
+    "price": {
+      "minValue": {
+        "amount": "25"
+      },
+      "maxValue": {
+        "amount": "25"
+      }
+    },
+    "available": "IN_STOCK",
+    "options": [],
+    "category": "Latinhas",
+    "categories": [
+      "Casa",
+      "Latinhas"
+    ],
+    "waxWeightGrams": 45,
+    "aromas": [
+      "Tangerina e Canela"
+    ],
+    "description": "Cítrica e especiada, combina o frescor da tangerina com o toque quente da canela. Uma vela de 45 g em lata dourada com tampa e rótulo botânico, da coleção Aromas Clássicos. Para escolher seu aroma favorito ou combinar diferentes fragrâncias.",
+    "technicalDetails": {
+      "olfactiveProfile": [
+        "Cítrico",
+        "Especiado",
+        "Aconchego"
+      ],
+      "composition": "Cera de coco com essência aromática e pavio de madeira.",
+      "container": "Lata dourada de 50 ml com tampa. Conteúdo: 45 g de vela.",
+      "production": "Feita à mão no ateliê LIARE, em Itupeva, SP",
+      "useInstructions": [
+        "Retire a tampa antes de acender.",
+        "Acenda sobre uma superfície plana, estável e resistente ao calor.",
+        "Espere a cera esfriar completamente antes de fechar a lata."
+      ],
+      "precautions": [
+        "Nunca deixe a vela acesa sem supervisão.",
+        "Mantenha longe de crianças, animais, materiais inflamáveis e correntes de ar.",
+        "Não mova o recipiente enquanto estiver quente ou com cera líquida.",
+        "Não use água para apagar e interrompa o uso antes de a cera se esgotar."
+      ]
+    },
+    "trackInventory": false,
+    "images": [
+      "produto-latinha-45g-tangerina-e-canela-20261029.webp"
+    ],
+    "imageLabels": [
+      "Latinha de Tangerina e Canela, 45 g, em uma composição da coleção Aromas Clássicos"
+    ],
+    "slug": "latinha-45g-tangerina-e-canela",
+    "variantCode": "chatgpt_d061f7b9271d7f686af33cc9"
+  },
+  {
+    "name": "Latinha 45 g — Doce Lavanda",
+    "image": "produto-latinha-45g-doce-lavanda-20261029.webp",
+    "price": {
+      "minValue": {
+        "amount": "25"
+      },
+      "maxValue": {
+        "amount": "25"
+      }
+    },
+    "available": "IN_STOCK",
+    "options": [],
+    "category": "Latinhas",
+    "categories": [
+      "Casa",
+      "Latinhas"
+    ],
+    "waxWeightGrams": 45,
+    "aromas": [
+      "Doce Lavanda"
+    ],
+    "description": "Floral, doce e aconchegante, traz a lavanda em uma fragrância envolvente para os momentos de pausa. Uma vela de 45 g em lata dourada com tampa e rótulo botânico, da coleção Aromas Clássicos. Para escolher seu aroma favorito ou combinar diferentes fragrâncias.",
+    "technicalDetails": {
+      "olfactiveProfile": [
+        "Floral",
+        "Doce",
+        "Aconchego"
+      ],
+      "composition": "Cera de coco com essência aromática e pavio de madeira.",
+      "container": "Lata dourada de 50 ml com tampa. Conteúdo: 45 g de vela.",
+      "production": "Feita à mão no ateliê LIARE, em Itupeva, SP",
+      "useInstructions": [
+        "Retire a tampa antes de acender.",
+        "Acenda sobre uma superfície plana, estável e resistente ao calor.",
+        "Espere a cera esfriar completamente antes de fechar a lata."
+      ],
+      "precautions": [
+        "Nunca deixe a vela acesa sem supervisão.",
+        "Mantenha longe de crianças, animais, materiais inflamáveis e correntes de ar.",
+        "Não mova o recipiente enquanto estiver quente ou com cera líquida.",
+        "Não use água para apagar e interrompa o uso antes de a cera se esgotar."
+      ]
+    },
+    "trackInventory": false,
+    "images": [
+      "produto-latinha-45g-doce-lavanda-20261029.webp"
+    ],
+    "imageLabels": [
+      "Latinha de Doce Lavanda, 45 g, em uma composição da coleção Aromas Clássicos"
+    ],
+    "slug": "latinha-45g-doce-lavanda",
+    "variantCode": "chatgpt_5a8d74a663e4aff9dd5c955c"
+  },
+  {
+    "name": "Latinha 45 g — Chá Branco",
+    "image": "produto-latinha-45g-cha-branco-20261029.webp",
+    "price": {
+      "minValue": {
+        "amount": "25"
+      },
+      "maxValue": {
+        "amount": "25"
+      }
+    },
+    "available": "IN_STOCK",
+    "options": [],
+    "category": "Latinhas",
+    "categories": [
+      "Casa",
+      "Latinhas"
+    ],
+    "waxWeightGrams": 45,
+    "aromas": [
+      "Chá Branco"
+    ],
+    "description": "Fresco, leve e elegante, perfuma a casa com a delicadeza do chá branco. Uma vela de 45 g em lata dourada com tampa e rótulo botânico, da coleção Aromas Clássicos. Para escolher seu aroma favorito ou combinar diferentes fragrâncias.",
+    "technicalDetails": {
+      "olfactiveProfile": [
+        "Fresco",
+        "Leve",
+        "Elegante"
+      ],
+      "composition": "Cera de coco com essência aromática e pavio de madeira.",
+      "container": "Lata dourada de 50 ml com tampa. Conteúdo: 45 g de vela.",
+      "production": "Feita à mão no ateliê LIARE, em Itupeva, SP",
+      "useInstructions": [
+        "Retire a tampa antes de acender.",
+        "Acenda sobre uma superfície plana, estável e resistente ao calor.",
+        "Espere a cera esfriar completamente antes de fechar a lata."
+      ],
+      "precautions": [
+        "Nunca deixe a vela acesa sem supervisão.",
+        "Mantenha longe de crianças, animais, materiais inflamáveis e correntes de ar.",
+        "Não mova o recipiente enquanto estiver quente ou com cera líquida.",
+        "Não use água para apagar e interrompa o uso antes de a cera se esgotar."
+      ]
+    },
+    "trackInventory": false,
+    "images": [
+      "produto-latinha-45g-cha-branco-20261029.webp"
+    ],
+    "imageLabels": [
+      "Latinha de Chá Branco, 45 g, em uma composição da coleção Aromas Clássicos"
+    ],
+    "slug": "latinha-45g-cha-branco",
+    "variantCode": "chatgpt_64d3e356760056ea3c53ba2d"
+  },
+  {
+    "name": "Latinha 45 g — Baunilha Cremosa",
+    "image": "produto-latinha-45g-baunilha-cremosa-20261029.webp",
+    "price": {
+      "minValue": {
+        "amount": "25"
+      },
+      "maxValue": {
+        "amount": "25"
+      }
+    },
+    "available": "IN_STOCK",
+    "options": [],
+    "category": "Latinhas",
+    "categories": [
+      "Casa",
+      "Latinhas"
+    ],
+    "waxWeightGrams": 45,
+    "aromas": [
+      "Baunilha Cremosa"
+    ],
+    "description": "Doce, cremosa e aconchegante, envolve o ambiente com a suavidade da baunilha. Uma vela de 45 g em lata dourada com tampa e rótulo botânico, da coleção Aromas Clássicos. Para escolher seu aroma favorito ou combinar diferentes fragrâncias.",
+    "technicalDetails": {
+      "olfactiveProfile": [
+        "Doce",
+        "Cremoso",
+        "Aconchego"
+      ],
+      "composition": "Cera de coco com essência aromática e pavio de madeira.",
+      "container": "Lata dourada de 50 ml com tampa. Conteúdo: 45 g de vela.",
+      "production": "Feita à mão no ateliê LIARE, em Itupeva, SP",
+      "useInstructions": [
+        "Retire a tampa antes de acender.",
+        "Acenda sobre uma superfície plana, estável e resistente ao calor.",
+        "Espere a cera esfriar completamente antes de fechar a lata."
+      ],
+      "precautions": [
+        "Nunca deixe a vela acesa sem supervisão.",
+        "Mantenha longe de crianças, animais, materiais inflamáveis e correntes de ar.",
+        "Não mova o recipiente enquanto estiver quente ou com cera líquida.",
+        "Não use água para apagar e interrompa o uso antes de a cera se esgotar."
+      ]
+    },
+    "trackInventory": false,
+    "images": [
+      "produto-latinha-45g-baunilha-cremosa-20261029.webp"
+    ],
+    "imageLabels": [
+      "Latinha de Baunilha Cremosa, 45 g, em uma composição da coleção Aromas Clássicos"
+    ],
+    "slug": "latinha-45g-baunilha-cremosa",
+    "variantCode": "chatgpt_9e485b886fdb89d693555f85"
+  },
+  {
+    "name": "Latinha 45 g — Pera Silvestre",
+    "image": "produto-latinha-45g-pera-silvestre-20261029.webp",
+    "price": {
+      "minValue": {
+        "amount": "25"
+      },
+      "maxValue": {
+        "amount": "25"
+      }
+    },
+    "available": "IN_STOCK",
+    "options": [],
+    "category": "Latinhas",
+    "categories": [
+      "Casa",
+      "Latinhas"
+    ],
+    "waxWeightGrams": 45,
+    "aromas": [
+      "Pera Silvestre"
+    ],
+    "description": "Frutada e fresca, combina a presença da pera com um delicado fundo amadeirado. Uma vela de 45 g em lata dourada com tampa e rótulo botânico, da coleção Aromas Clássicos. Para escolher seu aroma favorito ou combinar diferentes fragrâncias.",
+    "technicalDetails": {
+      "olfactiveProfile": [
+        "Frutado",
+        "Amadeirado",
+        "Fresco"
+      ],
+      "composition": "Cera de coco com essência aromática e pavio de madeira.",
+      "container": "Lata dourada de 50 ml com tampa. Conteúdo: 45 g de vela.",
+      "production": "Feita à mão no ateliê LIARE, em Itupeva, SP",
+      "useInstructions": [
+        "Retire a tampa antes de acender.",
+        "Acenda sobre uma superfície plana, estável e resistente ao calor.",
+        "Espere a cera esfriar completamente antes de fechar a lata."
+      ],
+      "precautions": [
+        "Nunca deixe a vela acesa sem supervisão.",
+        "Mantenha longe de crianças, animais, materiais inflamáveis e correntes de ar.",
+        "Não mova o recipiente enquanto estiver quente ou com cera líquida.",
+        "Não use água para apagar e interrompa o uso antes de a cera se esgotar."
+      ]
+    },
+    "trackInventory": false,
+    "images": [
+      "produto-latinha-45g-pera-silvestre-20261029.webp"
+    ],
+    "imageLabels": [
+      "Latinha de Pera Silvestre, 45 g, em uma composição da coleção Aromas Clássicos"
+    ],
+    "slug": "latinha-45g-pera-silvestre",
+    "variantCode": "chatgpt_33ab65772d2563209d81f2fc"
+  },
+  {
+    "name": "Latinha 45 g — Buquê de Peônias",
+    "image": "produto-latinha-45g-buque-de-peonias-20261029.webp",
+    "price": {
+      "minValue": {
+        "amount": "25"
+      },
+      "maxValue": {
+        "amount": "25"
+      }
+    },
+    "available": "IN_STOCK",
+    "options": [],
+    "category": "Latinhas",
+    "categories": [
+      "Casa",
+      "Latinhas"
+    ],
+    "waxWeightGrams": 45,
+    "aromas": [
+      "Buquê de Peônias"
+    ],
+    "description": "Floral, delicada e elegante, traz a presença das peônias para perfumar os seus momentos em casa. Uma vela de 45 g em lata dourada com tampa e rótulo botânico, da coleção Aromas Clássicos. Para escolher seu aroma favorito ou combinar diferentes fragrâncias.",
+    "technicalDetails": {
+      "olfactiveProfile": [
+        "Floral",
+        "Delicado",
+        "Elegante"
+      ],
+      "composition": "Cera de coco com essência aromática e pavio de madeira.",
+      "container": "Lata dourada de 50 ml com tampa. Conteúdo: 45 g de vela.",
+      "production": "Feita à mão no ateliê LIARE, em Itupeva, SP",
+      "useInstructions": [
+        "Retire a tampa antes de acender.",
+        "Acenda sobre uma superfície plana, estável e resistente ao calor.",
+        "Espere a cera esfriar completamente antes de fechar a lata."
+      ],
+      "precautions": [
+        "Nunca deixe a vela acesa sem supervisão.",
+        "Mantenha longe de crianças, animais, materiais inflamáveis e correntes de ar.",
+        "Não mova o recipiente enquanto estiver quente ou com cera líquida.",
+        "Não use água para apagar e interrompa o uso antes de a cera se esgotar."
+      ]
+    },
+    "trackInventory": false,
+    "images": [
+      "produto-latinha-45g-buque-de-peonias-20261029.webp"
+    ],
+    "imageLabels": [
+      "Latinha de Buquê de Peônias, 45 g, em uma composição da coleção Aromas Clássicos"
+    ],
+    "slug": "latinha-45g-buque-de-peonias",
+    "variantCode": "chatgpt_a89ef5289b8ac64efb39d645"
+  },
+  {
+    "name": "Castiçal Lapidado – Pêra Silvestre",
+    "image": "produto-castical-lapidado-pera-silvestre-1.webp",
+    "price": {
+      "minValue": {
+        "amount": "55"
+      },
+      "maxValue": {
+        "amount": "55"
+      }
+    },
+    "available": "IN_STOCK",
+    "options": [],
+    "modelCode": "LIA-001",
+    "category": "Lapidados",
+    "categories": [
+      "Casa",
+      "Presentes",
+      "Castiçal Lapidado"
+    ],
+    "waxWeightGrams": 75,
+    "aromas": [
+      "Pêra Silvestre"
+    ],
+    "trackInventory": false,
+    "slug": "castical-lapidado-pera-silvestre"
+  },
+  {
+    "name": "Buquê de Velas Aromáticas | Lembrança de Evento",
+    "image": "buque-lembranca-lilas-20261008.webp",
+    "price": {
+      "minValue": {
+        "amount": "9.4"
+      },
+      "maxValue": {
+        "amount": "305"
+      }
+    },
+    "available": "IN_STOCK",
+    "options": [],
+    "modelCode": "LIA-009",
+    "category": "Personalizados",
+    "categories": [
+      "Personalizados"
+    ],
+    "aromas": [],
+    "priceOnRequest": true,
+    "description": "Flores de vela para lembranças de eventos. Cor, aroma, tag, quantidade e prazo sob consulta.",
+    "trackInventory": false,
+    "images": [
+      "buque-lembranca-lilas-20261008.webp",
+      "flor-unitaria-lilas-tag-20261008.webp"
+    ],
+    "imageLabels": [
+      "Buquê lilás de velas para lembrança de evento",
+      "Flor unitária lilás com tag personalizada"
+    ],
+    "slug": "buque-de-velas-aromaticas-lembranca-de-evento"
+  },
+  {
+    "name": "Castiçal Lapidado – Buquê de Peônias",
+    "image": "produto-castical-lapidado-buque-de-peonias-1.webp",
+    "price": {
+      "minValue": {
+        "amount": "55"
+      },
+      "maxValue": {
+        "amount": "55"
+      }
+    },
+    "available": "IN_STOCK",
+    "options": [],
+    "modelCode": "LIA-001",
+    "category": "Lapidados",
+    "categories": [
+      "Casa",
+      "Presentes",
+      "Castiçal Lapidado"
+    ],
+    "waxWeightGrams": 75,
+    "aromas": [
+      "Buquê de Peônias"
+    ],
+    "trackInventory": false,
+    "slug": "castical-lapidado-buque-de-peonias"
+  },
+  {
+    "name": "Milk-shake de Morango",
+    "image": "produto-milkshake-morango-campanha-20261015.webp",
+    "price": {
+      "minValue": {
+        "amount": "75"
+      },
+      "maxValue": {
+        "amount": "75"
+      }
+    },
+    "available": "IN_STOCK",
+    "options": [],
+    "modelCode": "LIA-016",
+    "category": "Gourmand",
+    "categories": [
+      "Presentes",
+      "Linhas especiais"
+    ],
+    "waxWeightGrams": 190,
+    "aromas": [
+      "Morango com Chantilly"
+    ],
+    "description": "O perfume de um milk-shake de morango daqueles caprichados: doce, cremoso, com chantilly de sobra. Um aroma que dá água na boca e traz para a casa o prazer das coisas que a gente escolhe só porque gosta.",
+    "technicalDetails": {
+      "olfactiveFamily": "Adocicada",
+      "aromaPyramid": {
+        "top": [
+          "Anis",
+          "Maçã",
+          "Morango"
+        ],
+        "heart": [
+          "Violeta",
+          "Folhas de Morango"
+        ],
+        "base": [
+          "Chantilly",
+          "Baunilha",
+          "Caramelo"
+        ]
+      },
+      "olfactiveProfile": [
+        "Frutado",
+        "Doce",
+        "Cremoso"
+      ],
+      "composition": "Cera de coco 100% vegetal, essência aromática premium segura e livre de ftalatos, pavio de algodão.",
+      "container": "Copo de vidro",
+      "production": "Feita à mão em Itupeva, SP",
+      "burnTimeEstimate": {
+        "minHours": 30,
+        "maxHours": 40
+      },
+      "useInstructions": [
+        "Antes de cada uso, apare o pavio para cerca de 6 mm e retire as aparas da cera.",
+        "Acenda sobre uma superfície plana, estável e resistente ao calor.",
+        "Use por até 3 horas por vez e espere a cera esfriar antes de reacender."
+      ],
+      "precautions": [
+        "Nunca deixe a vela acesa sem supervisão.",
+        "Mantenha longe de crianças, animais, materiais inflamáveis e correntes de ar.",
+        "Não mova o recipiente enquanto estiver quente ou com cera líquida.",
+        "Não use água para apagar e interrompa o uso antes de a cera se esgotar."
+      ]
+    },
+    "trackInventory": false,
+    "images": [
+      "produto-milkshake-morango-campanha-20261015.webp",
+      "produto-milkshake-morango-mesclado-20261015.webp",
+      "produto-milkshake-morango-detalhe-20261015.webp"
+    ],
+    "imageLabels": [
+      "Ver foto principal",
+      "Ver o mesclado da vela",
+      "Ver detalhe dos morangos e chantilly"
+    ],
+    "slug": "milk-shake-de-morango"
+  },
+  {
+    "name": "Milk-shake de Chocolate",
+    "image": "produto-milkshake-chocolate-principal-20261022.webp",
+    "price": {
+      "minValue": {
+        "amount": "75"
+      },
+      "maxValue": {
+        "amount": "75"
+      }
+    },
+    "available": "IN_STOCK",
+    "options": [],
+    "category": "Gourmand",
+    "categories": [
+      "Presentes",
+      "Linhas especiais"
+    ],
+    "waxWeightGrams": 190,
+    "aromas": [
+      "Milk-shake de Chocolate"
+    ],
+    "description": "O perfume cremoso do chocolate encontra a suavidade da baunilha em uma vela feita para dar vontade de ficar mais um pouco. Mesclado no vidro, chantilly e pedaços de chocolate feitos em cera completam essa criação artesanal cheia de personalidade.",
+    "technicalDetails": {
+      "olfactiveFamily": "Adocicada",
+      "olfactiveProfile": [
+        "Doce",
+        "Cremoso",
+        "Gourmand"
+      ],
+      "composition": "Base e chantilly de cera de coco, decoração em cera, essência aromática e pavio de algodão.",
+      "container": "Copo de vidro",
+      "production": "Feita à mão em Itupeva, SP",
+      "useInstructions": [
+        "Antes de cada uso, apare o pavio para cerca de 6 mm e retire as aparas da cera.",
+        "Acenda sobre uma superfície plana, estável e resistente ao calor.",
+        "Use por até 3 horas por vez e espere a cera esfriar antes de reacender."
+      ],
+      "precautions": [
+        "Nunca deixe a vela acesa sem supervisão.",
+        "Mantenha longe de crianças, animais, materiais inflamáveis e correntes de ar.",
+        "Não mova o recipiente enquanto estiver quente ou com cera líquida.",
+        "Não use água para apagar e interrompa o uso antes de a cera se esgotar."
+      ]
+    },
+    "trackInventory": false,
+    "images": [
+      "produto-milkshake-chocolate-principal-20261022.webp",
+      "produto-milkshake-chocolate-dupla-20261022.webp",
+      "produto-milkshake-chocolate-detalhe-20261022.webp"
+    ],
+    "imageLabels": [
+      "Ver foto principal",
+      "Ver composição com duas velas",
+      "Ver detalhe do chocolate e chantilly de cera"
+    ],
+    "slug": "milk-shake-de-chocolate",
+    "variantCode": "prod_1792672506018"
+  },
+  {
+    "name": "Castiçal Lapidado – Tangerina e Canela",
+    "image": "produto-castical-lapidado-tangerina-e-canela-1.webp",
+    "price": {
+      "minValue": {
+        "amount": "55"
+      },
+      "maxValue": {
+        "amount": "55"
+      }
+    },
+    "available": "IN_STOCK",
+    "options": [],
+    "modelCode": "LIA-001",
+    "category": "Lapidados",
+    "categories": [
+      "Casa",
+      "Presentes",
+      "Castiçal Lapidado"
+    ],
+    "waxWeightGrams": 75,
+    "aromas": [
+      "Tangerina e Canela"
+    ],
+    "trackInventory": false,
+    "slug": "castical-lapidado-tangerina-e-canela"
+  },
+  {
+    "name": "Castiçal Lapidado – Chá Branco",
+    "image": "produto-castical-lapidado-cha-branco-1.webp",
+    "price": {
+      "minValue": {
+        "amount": "55"
+      },
+      "maxValue": {
+        "amount": "55"
+      }
+    },
+    "available": "IN_STOCK",
+    "options": [],
+    "modelCode": "LIA-001",
+    "category": "Lapidados",
+    "categories": [
+      "Casa",
+      "Presentes",
+      "Castiçal Lapidado"
+    ],
+    "waxWeightGrams": 75,
+    "aromas": [
+      "Chá Branco"
+    ],
+    "trackInventory": false,
+    "slug": "castical-lapidado-cha-branco"
+  },
+  {
+    "name": "Castiçal Lapidado – Doce Lavanda",
+    "image": "produto-castical-lapidado-doce-lavanda-principal-20261009.webp",
+    "price": {
+      "minValue": {
+        "amount": "55"
+      },
+      "maxValue": {
+        "amount": "55"
+      }
+    },
+    "available": "IN_STOCK",
+    "options": [],
+    "modelCode": "LIA-001",
+    "category": "Lapidados",
+    "categories": [
+      "Casa",
+      "Presentes",
+      "Castiçal Lapidado"
+    ],
+    "waxWeightGrams": 75,
+    "aromas": [
+      "Doce Lavanda"
+    ],
+    "trackInventory": false,
+    "images": [
+      "produto-castical-lapidado-doce-lavanda-principal-20261009.webp",
+      "produto-castical-lapidado-doce-lavanda-detalhe-20261009.webp"
+    ],
+    "imageLabels": [
+      "Ver foto principal",
+      "Ver detalhes da vela"
+    ],
+    "slug": "castical-lapidado-doce-lavanda"
+  },
+  {
+    "name": "Castiçal Lapidado – Baunilha Cremosa",
+    "image": "castical-lapidado-baunilha-cremosa.webp",
+    "price": {
+      "minValue": {
+        "amount": "55"
+      },
+      "maxValue": {
+        "amount": "55"
+      }
+    },
+    "available": "IN_STOCK",
+    "options": [],
+    "waxWeightGrams": 75,
+    "modelCode": "LIA-001",
+    "category": "Lapidados",
+    "categories": [
+      "Casa",
+      "Presentes",
+      "Castiçal Lapidado"
+    ],
+    "aromas": [
+      "Baunilha Cremosa"
+    ],
+    "trackInventory": false,
+    "slug": "castical-lapidado-baunilha-cremosa"
+  },
+  {
+    "name": "Cubo Essence 100 g – Tangerina e Canela",
+    "image": "produto-cubo-essence-design-e-versatilidade-1.webp",
+    "price": {
+      "minValue": {
+        "amount": "50"
+      },
+      "maxValue": {
+        "amount": "50"
+      }
+    },
+    "available": "IN_STOCK",
+    "options": [],
+    "modelCode": "LIA-003",
+    "category": "Cubos",
+    "categories": [
+      "Casa",
+      "Corporativo"
+    ],
+    "waxWeightGrams": 100,
+    "aromas": [
+      "Tangerina e Canela"
+    ],
+    "description": "Vela em vidro cúbico. Personalização com logo e pedidos para empresas sob consulta.",
+    "variantCode": "LIA-003-ARO-003",
+    "trackInventory": false,
+    "slug": "cubo-essence-100-g-tangerina-e-canela"
+  },
+  {
+    "name": "Cubo Essence 100 g – Doce Lavanda",
+    "image": "produto-cubo-essence-design-e-versatilidade-1.webp",
+    "price": {
+      "minValue": {
+        "amount": "50"
+      },
+      "maxValue": {
+        "amount": "50"
+      }
+    },
+    "available": "IN_STOCK",
+    "options": [],
+    "modelCode": "LIA-003",
+    "category": "Cubos",
+    "categories": [
+      "Casa",
+      "Corporativo"
+    ],
+    "waxWeightGrams": 100,
+    "aromas": [
+      "Doce Lavanda"
+    ],
+    "description": "Vela em vidro cúbico. Personalização com logo e pedidos para empresas sob consulta.",
+    "variantCode": "LIA-003-ARO-002",
+    "trackInventory": false,
+    "slug": "cubo-essence-100-g-doce-lavanda"
+  },
+  {
+    "name": "Cubo Essence 100 g – Chá Branco",
+    "image": "produto-cubo-essence-design-e-versatilidade-1.webp",
+    "price": {
+      "minValue": {
+        "amount": "50"
+      },
+      "maxValue": {
+        "amount": "50"
+      }
+    },
+    "available": "IN_STOCK",
+    "options": [],
+    "modelCode": "LIA-003",
+    "category": "Cubos",
+    "categories": [
+      "Casa",
+      "Corporativo"
+    ],
+    "waxWeightGrams": 100,
+    "aromas": [
+      "Chá Branco"
+    ],
+    "description": "Vela em vidro cúbico. Personalização com logo e pedidos para empresas sob consulta.",
+    "variantCode": "LIA-003-ARO-001",
+    "trackInventory": false,
+    "slug": "cubo-essence-100-g-cha-branco"
+  },
+  {
+    "name": "Cubo Essence 100 g – Baunilha Cremosa",
+    "image": "produto-cubo-essence-design-e-versatilidade-1.webp",
+    "price": {
+      "minValue": {
+        "amount": "50"
+      },
+      "maxValue": {
+        "amount": "50"
+      }
+    },
+    "available": "IN_STOCK",
+    "options": [],
+    "modelCode": "LIA-003",
+    "category": "Cubos",
+    "categories": [
+      "Casa",
+      "Corporativo"
+    ],
+    "waxWeightGrams": 100,
+    "aromas": [
+      "Baunilha Cremosa"
+    ],
+    "description": "Vela em vidro cúbico. Personalização com logo e pedidos para empresas sob consulta.",
+    "variantCode": "LIA-003-ARO-005",
+    "trackInventory": false,
+    "slug": "cubo-essence-100-g-baunilha-cremosa"
+  },
+  {
+    "name": "Cubo Essence 100 g – Pêra Silvestre",
+    "image": "produto-cubo-essence-design-e-versatilidade-1.webp",
+    "price": {
+      "minValue": {
+        "amount": "50"
+      },
+      "maxValue": {
+        "amount": "50"
+      }
+    },
+    "available": "IN_STOCK",
+    "options": [],
+    "modelCode": "LIA-003",
+    "category": "Cubos",
+    "categories": [
+      "Casa",
+      "Corporativo"
+    ],
+    "waxWeightGrams": 100,
+    "aromas": [
+      "Pêra Silvestre"
+    ],
+    "description": "Vela em vidro cúbico. Personalização com logo e pedidos para empresas sob consulta.",
+    "variantCode": "LIA-003-ARO-006",
+    "trackInventory": false,
+    "slug": "cubo-essence-100-g-pera-silvestre"
+  },
+  {
+    "name": "Cubo Essence 100 g – Buquê de Peônias",
+    "image": "produto-cubo-essence-design-e-versatilidade-1.webp",
+    "price": {
+      "minValue": {
+        "amount": "50"
+      },
+      "maxValue": {
+        "amount": "50"
+      }
+    },
+    "available": "IN_STOCK",
+    "options": [],
+    "modelCode": "LIA-003",
+    "category": "Cubos",
+    "categories": [
+      "Casa",
+      "Corporativo"
+    ],
+    "waxWeightGrams": 100,
+    "aromas": [
+      "Buquê de Peônias"
+    ],
+    "description": "Vela em vidro cúbico. Personalização com logo e pedidos para empresas sob consulta.",
+    "variantCode": "LIA-003-ARO-004",
+    "trackInventory": false,
+    "slug": "cubo-essence-100-g-buque-de-peonias"
+  },
+  {
+    "name": "Clássico Âmbar – Tangerina e Canela",
+    "image": "classico-ambar-tangerina-e-canela-botanico.webp",
+    "price": {
+      "minValue": {
+        "amount": "86"
+      },
+      "maxValue": {
+        "amount": "86"
+      }
+    },
+    "available": "OUT_OF_STOCK",
+    "options": [],
+    "modelCode": "LIA-002",
+    "category": "Clássicos",
+    "categories": [
+      "Casa",
+      "Presentes",
+      "Clássico Âmbar"
+    ],
+    "waxWeightGrams": 185,
+    "aromas": [
+      "Tangerina e Canela"
+    ],
+    "variantCode": "LIA-002-ARO-003",
+    "trackInventory": true,
+    "slug": "classico-ambar-tangerina-e-canela",
+    "stockQuantity": 0
+  },
+  {
+    "name": "Clássico Âmbar – Doce Lavanda",
+    "image": "classico-ambar-doce-lavanda-botanico.webp",
+    "price": {
+      "minValue": {
+        "amount": "86"
+      },
+      "maxValue": {
+        "amount": "86"
+      }
+    },
+    "available": "IN_STOCK",
+    "options": [],
+    "modelCode": "LIA-002",
+    "category": "Clássicos",
+    "categories": [
+      "Casa",
+      "Presentes",
+      "Clássico Âmbar"
+    ],
+    "waxWeightGrams": 185,
+    "aromas": [
+      "Doce Lavanda"
+    ],
+    "variantCode": "LIA-002-ARO-002",
+    "trackInventory": true,
+    "slug": "classico-ambar-doce-lavanda",
+    "stockQuantity": 2
+  },
+  {
+    "name": "Clássico Âmbar – Chá Branco",
+    "image": "classico-ambar-cha-branco-botanico.webp",
+    "price": {
+      "minValue": {
+        "amount": "86"
+      },
+      "maxValue": {
+        "amount": "86"
+      }
+    },
+    "available": "IN_STOCK",
+    "options": [],
+    "modelCode": "LIA-002",
+    "category": "Clássicos",
+    "categories": [
+      "Casa",
+      "Presentes",
+      "Clássico Âmbar"
+    ],
+    "waxWeightGrams": 185,
+    "aromas": [
+      "Chá Branco"
+    ],
+    "variantCode": "LIA-002-ARO-001",
+    "trackInventory": true,
+    "slug": "classico-ambar-cha-branco",
+    "stockQuantity": 2
+  },
+  {
+    "name": "Clássico Âmbar – Baunilha Cremosa",
+    "image": "classico-ambar-baunilha-cremosa-botanico.webp",
+    "price": {
+      "minValue": {
+        "amount": "86"
+      },
+      "maxValue": {
+        "amount": "86"
+      }
+    },
+    "available": "IN_STOCK",
+    "options": [],
+    "modelCode": "LIA-002",
+    "category": "Clássicos",
+    "categories": [
+      "Casa",
+      "Presentes",
+      "Clássico Âmbar"
+    ],
+    "waxWeightGrams": 185,
+    "aromas": [
+      "Baunilha Cremosa"
+    ],
+    "variantCode": "LIA-002-ARO-005",
+    "trackInventory": true,
+    "slug": "classico-ambar-baunilha-cremosa",
+    "stockQuantity": 2
+  },
+  {
+    "name": "Clássico Âmbar – Pêra Silvestre",
+    "image": "classico-ambar-pera-silvestre-botanico.webp",
+    "price": {
+      "minValue": {
+        "amount": "86"
+      },
+      "maxValue": {
+        "amount": "86"
+      }
+    },
+    "available": "IN_STOCK",
+    "options": [],
+    "modelCode": "LIA-002",
+    "category": "Clássicos",
+    "categories": [
+      "Casa",
+      "Presentes",
+      "Clássico Âmbar"
+    ],
+    "waxWeightGrams": 185,
+    "aromas": [
+      "Pêra Silvestre"
+    ],
+    "variantCode": "LIA-002-ARO-006",
+    "trackInventory": true,
+    "slug": "classico-ambar-pera-silvestre",
+    "stockQuantity": 2
+  },
+  {
+    "name": "Clássico Âmbar – Buquê de Peônias",
+    "image": "classico-ambar-buque-de-peonias-botanico.webp",
+    "price": {
+      "minValue": {
+        "amount": "86"
+      },
+      "maxValue": {
+        "amount": "86"
+      }
+    },
+    "available": "OUT_OF_STOCK",
+    "options": [],
+    "modelCode": "LIA-002",
+    "category": "Clássicos",
+    "categories": [
+      "Casa",
+      "Presentes",
+      "Clássico Âmbar"
+    ],
+    "waxWeightGrams": 185,
+    "aromas": [
+      "Buquê de Peônias"
+    ],
+    "variantCode": "LIA-002-ARO-004",
+    "trackInventory": true,
+    "slug": "classico-ambar-buque-de-peonias",
+    "stockQuantity": 0
+  },
+  {
+    "name": "Coelhinho personalizado",
+    "modelCode": "LIA-010",
+    "category": "Personalizados",
+    "categories": [
+      "Personalizados"
+    ],
+    "aromas": [],
+    "image": "coelhinho-personalizado.webp",
+    "priceOnRequest": true,
+    "price": {
+      "minValue": {
+        "amount": "0"
+      },
+      "maxValue": {
+        "amount": "0"
+      }
+    },
+    "available": "IN_STOCK",
+    "options": [],
+    "description": "Vela em formato de coelhinho, em pequeno recipiente de acrílico. Nome, cor e apresentação personalizados para a sua lembrancinha. Quantidade, valor e prazo sob consulta.",
+    "trackInventory": false,
+    "slug": "coelhinho-personalizado"
+  },
+  {
+    "name": "Buquê de Velas Aromáticas – Chá Branco",
+    "modelCode": "LIA-017",
+    "variantCode": "LIA-017-ARO-001",
+    "category": "Flores",
+    "categories": [
+      "Presentes"
+    ],
+    "aromas": [
+      "Chá Branco"
+    ],
+    "image": "produto-buque-presente.webp",
+    "price": {
+      "minValue": {
+        "amount": "45"
+      },
+      "maxValue": {
+        "amount": "45"
+      }
+    },
+    "available": "IN_STOCK",
+    "trackInventory": false,
+    "options": [],
+    "description": "Buquê de flores de vela aromática para presentear. Você pode solicitar suas cores preferidas nas observações do pedido.",
+    "waxWeightGrams": 120,
+    "slug": "buque-de-velas-aromaticas-cha-branco"
+  },
+  {
+    "name": "Buquê de Velas Aromáticas – Buquê de Peônias",
+    "modelCode": "LIA-017",
+    "variantCode": "LIA-017-ARO-004",
+    "category": "Flores",
+    "categories": [
+      "Presentes"
+    ],
+    "aromas": [
+      "Buquê de Peônias"
+    ],
+    "image": "produto-buque-presente.webp",
+    "price": {
+      "minValue": {
+        "amount": "45"
+      },
+      "maxValue": {
+        "amount": "45"
+      }
+    },
+    "available": "IN_STOCK",
+    "trackInventory": false,
+    "options": [],
+    "description": "Buquê de flores de vela aromática para presentear. Você pode solicitar suas cores preferidas nas observações do pedido.",
+    "waxWeightGrams": 120,
+    "slug": "buque-de-velas-aromaticas-buque-de-peonias"
+  },
+  {
+    "name": "Buquê de Velas Aromáticas – Doce Lavanda",
+    "modelCode": "LIA-017",
+    "variantCode": "LIA-017-ARO-002",
+    "category": "Flores",
+    "categories": [
+      "Presentes"
+    ],
+    "aromas": [
+      "Doce Lavanda"
+    ],
+    "image": "produto-buque-presente.webp",
+    "price": {
+      "minValue": {
+        "amount": "45"
+      },
+      "maxValue": {
+        "amount": "45"
+      }
+    },
+    "available": "IN_STOCK",
+    "trackInventory": false,
+    "options": [],
+    "description": "Buquê de flores de vela aromática para presentear. Você pode solicitar suas cores preferidas nas observações do pedido.",
+    "waxWeightGrams": 120,
+    "slug": "buque-de-velas-aromaticas-doce-lavanda"
+  },
+  {
+    "name": "Buquê de Velas Aromáticas – Baunilha Cremosa",
+    "modelCode": "LIA-017",
+    "variantCode": "LIA-017-ARO-005",
+    "category": "Flores",
+    "categories": [
+      "Presentes"
+    ],
+    "aromas": [
+      "Baunilha Cremosa"
+    ],
+    "image": "produto-buque-presente.webp",
+    "price": {
+      "minValue": {
+        "amount": "45"
+      },
+      "maxValue": {
+        "amount": "45"
+      }
+    },
+    "available": "IN_STOCK",
+    "trackInventory": false,
+    "options": [],
+    "description": "Buquê de flores de vela aromática para presentear. Você pode solicitar suas cores preferidas nas observações do pedido.",
+    "waxWeightGrams": 120,
+    "slug": "buque-de-velas-aromaticas-baunilha-cremosa"
+  },
+  {
+    "name": "Paixão em Jasmim",
+    "image": "produto-paixao-em-jasmim-frontal.webp",
+    "images": [
+      "produto-paixao-em-jasmim-frontal.webp",
+      "produto-paixao-em-jasmim-superior.webp"
+    ],
+    "price": {
+      "minValue": {
+        "amount": "65"
+      },
+      "maxValue": {
+        "amount": "65"
+      }
+    },
+    "available": "IN_STOCK",
+    "options": [],
+    "category": "Linhas especiais",
+    "categories": [
+      "Linhas especiais"
+    ],
+    "waxWeightGrams": 150,
+    "aromas": [
+      "Paixão em Jasmim"
+    ],
+    "description": "Vela aromática com flores de cera em tons de coral, em recipiente de vidro com tampa de madeira. Aroma Paixão em Jasmim.",
+    "trackInventory": false,
+    "slug": "paixao-em-jasmim"
+  }
+]

@@ -1,0 +1,102 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<base href="/">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Produto · LIARE</title>
+<meta name="description" content="Conheça os detalhes das velas artesanais LIARE e monte seu pedido pelo WhatsApp.">
+<meta name="theme-color" content="{{include:styles/brand-color.txt}}">
+<style>{{include:styles/page-base.css}}</style>
+<link rel="icon" type="image/svg+xml" href="/favicon.svg">
+<link rel="icon" href="/favicon.ico" sizes="any">
+<link rel="apple-touch-icon" href="/apple-touch-icon.png">
+<link rel="stylesheet" href="store.css?v=20261029-stock">
+<link rel="stylesheet" href="product.css?v=20261029-stock">
+</head>
+<body class="internal-page product-body">
+{{include:partials/promotion.html}}
+{{include:partials/header.html}}
+<main class="product-page">
+ <nav class="product-breadcrumbs" aria-label="Caminho da página"><a href="index.html">Início</a><span aria-hidden="true">/</span><a href="loja.html">Loja</a><span aria-hidden="true">/</span><span id="product-crumb" aria-current="page">Produto</span></nav>
+ <p id="product-status" class="product-status" role="status">Carregando produto…</p>
+ <a id="product-error-link" class="product-back" href="loja.html" hidden>Voltar para a loja →</a>
+ <article id="product-content" class="product-layout" hidden>
+  <section class="product-gallery" aria-label="Fotos do produto">
+   <div class="product-photo-stage">
+    <a id="product-photo-link" class="product-photo-link" aria-label="Abrir foto completa"><img id="product-main-photo" alt="" fetchpriority="high" decoding="async"></a>
+    <p id="product-photo-empty" hidden>Foto em breve</p>
+   </div>
+   <div class="product-gallery-caption"><span id="product-photo-count" aria-live="polite"></span><span id="product-photo-hint">Toque na foto para ampliar</span></div>
+   <div id="product-thumbnails" class="product-thumbnails" role="group" aria-label="Escolher foto do produto"></div>
+  </section>
+  <section class="product-details" aria-labelledby="product-title">
+   <a class="product-back" href="loja.html">← Voltar à loja</a>
+   <p id="product-category" class="product-eyebrow"></p>
+   <h1 id="product-title"></h1>
+   <p id="product-price" class="product-price"></p>
+   <p id="product-availability" class="product-availability"></p>
+   <p id="product-description" class="product-description"></p>
+   <form id="product-form" class="product-order">
+    <div id="product-options" class="product-options"></div>
+    <label class="product-quantity-label" for="product-quantity">Quantidade</label>
+    <div class="product-purchase-row">
+     <div class="product-quantity-control"><button id="product-minus" type="button" aria-label="Diminuir quantidade">−</button><input id="product-quantity" name="quantity" type="number" min="1" max="999" step="1" value="1" required inputmode="numeric"><button id="product-plus" type="button" aria-label="Aumentar quantidade">+</button></div>
+     <button id="product-add" class="solid product-add" type="submit">Adicionar à sacola</button>
+    </div>
+    <p id="product-feedback" class="product-feedback" role="status" aria-live="polite"></p>
+   </form>
+   <section id="product-specifications" class="product-specifications" aria-labelledby="product-specs-title">
+    <h2 id="product-specs-title">Detalhes da vela</h2>
+    <details id="product-profile-section" class="product-spec-section" open>
+     <summary>Perfil olfativo</summary>
+     <div class="product-section-content"><dl class="product-specs">
+      <div id="product-aroma-row"><dt>Aroma</dt><dd id="product-aroma"></dd></div>
+      <div id="product-family-row" hidden><dt>Família olfativa</dt><dd id="product-family"></dd></div>
+      <div id="product-profile-row" class="product-spec-full" hidden><dt>Características do aroma</dt><dd id="product-profile" class="product-scent-tags"></dd></div>
+      <div id="product-notes-row" class="product-spec-wide" hidden>
+       <dt>Notas de aroma</dt>
+       <dd><dl class="product-aroma-pyramid">
+        <div id="product-notes-top-row" hidden><dt>Saída</dt><dd id="product-notes-top"></dd></div>
+        <div id="product-notes-heart-row" hidden><dt>Corpo</dt><dd id="product-notes-heart"></dd></div>
+        <div id="product-notes-base-row" hidden><dt>Fundo</dt><dd id="product-notes-base"></dd></div>
+       </dl></dd>
+      </div>
+     </dl></div>
+    </details>
+    <details id="product-characteristics-section" class="product-spec-section" open>
+     <summary>Características</summary>
+     <div class="product-section-content"><dl class="product-specs">
+      <div id="product-weight-row"><dt>Peso líquido</dt><dd id="product-weight"></dd></div>
+      <div id="product-burn-time-row" hidden><dt>Queima estimada</dt><dd id="product-burn-time"></dd></div>
+      <div id="product-container-row" hidden><dt>Recipiente</dt><dd id="product-container"></dd></div>
+      <div id="product-production-row" hidden><dt>Produção</dt><dd id="product-production"></dd></div>
+     </dl>
+     <p id="product-burn-note" class="product-spec-note" hidden>O tempo de queima é uma estimativa baseada no peso e pode variar conforme o uso.</p></div>
+    </details>
+    <details id="product-use-section" class="product-spec-section" hidden>
+     <summary>Modo de uso</summary>
+     <div class="product-section-content"><ul id="product-use" class="product-spec-list"></ul></div>
+    </details>
+    <details id="product-precautions-section" class="product-spec-section" hidden>
+     <summary>Cuidados e precauções</summary>
+     <div class="product-section-content"><ul id="product-precautions" class="product-spec-list"></ul></div>
+    </details>
+    <details id="product-composition-section" class="product-spec-section" hidden>
+     <summary>Composição</summary>
+     <div id="product-composition-row" class="product-section-content"><p id="product-composition" class="product-spec-copy"></p></div>
+    </details>
+   </section>
+   <div class="product-order-note"><p>Feita à mão no ateliê LIARE.</p><p>Ao enviar sua sacola pelo WhatsApp, confirmamos frete, prazo e os detalhes do pedido com você.</p></div>
+  </section>
+ </article>
+</main>
+{{include:partials/footer.html}}
+{{include:partials/whatsapp.html}}
+<script src="promos.js?v=20261007-auto-slide"></script>
+<script src="cart.js?v=20261029-stock"></script>
+<script src="mobile-nav.js?v=20261007-three-layouts"></script>
+<script src="product.js?v=20261029-stock"></script>
+<script src="product-gallery.js?v=20261016-lightbox"></script>
+</body>
+</html>

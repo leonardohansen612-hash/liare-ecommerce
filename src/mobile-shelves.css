@@ -1,0 +1,5 @@
+/* Compact mobile shelves, following Crystal Collection proportions. */
+@media(max-width:760px){#colecao.section{padding-left:14px;padding-right:14px}.product-track{grid-auto-columns:calc((100% - 40px)/2);gap:10px}.product-shelf h2{font-size:28px;line-height:1.25;margin-bottom:26px}.product-track .picture{aspect-ratio:2/3;border-radius:4px}.product-shelf{margin-bottom:45px}}
+
+@media(max-width:760px){.category-dots button[aria-pressed=true]:before{width:18px;border-radius:8px}}
+

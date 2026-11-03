@@ -1,0 +1,57 @@
+* { box-sizing: border-box; }
+.contact-page { margin: 0; background: #fff; font: 16px/1.65 Inter, Arial, sans-serif; color: #555; }
+.contact-page a { color: inherit; text-decoration: none; }
+
+
+
+
+.contact-main { max-width: 1200px; margin: auto; padding: 64px 5% 80px; }
+.contact-kicker { display: block; color: var(--brand-muted); font-size: 14px; letter-spacing: .13em; }
+.contact-about { display: grid; grid-template-columns: 1.15fr 1fr; gap: 72px; align-items: center; }
+.contact-about h1 { font: 400 clamp(36px, 4.5vw, 58px)/1.18 Montserrat, Arial, sans-serif; margin: 18px 0 28px; color: #555; }
+.contact-about-copy p { max-width: 510px; margin: 0 0 20px; }
+.contact-about-link, .contact-quote-link { display: inline-block; border-bottom: 1px solid var(--accent); padding: 2px 0 5px; }
+.contact-about-photo { margin: 0; }
+.contact-about-photo img { display: block; width: 100%; aspect-ratio: 4/5; max-height: 510px; object-fit: cover; border-radius: 4px; }
+.contact-about-photo figcaption { margin-top: 12px; color: #777; font-size: 13px; text-align: center; }
+.contact-details { margin-top: 80px; padding-top: 55px; border-top: 1px solid var(--brand-line); }
+.contact-details-heading { text-align: center; max-width: 640px; margin: 0 auto 38px; }
+.contact-details h2 { font: 400 32px/1.25 Montserrat, Arial, sans-serif; margin: 12px 0 18px; }
+.contact-details-heading p { margin: 0; }
+.contact-layout { display: grid; grid-template-columns: 1fr 1.15fr; gap: 48px; align-items: start; }
+.contact-direct { padding: 34px; background: var(--brand-surface); border: 1px solid var(--brand-line); border-radius: 4px; }
+.contact-label { font-size: 14px; }
+.contact-number { margin: 8px 0 6px; font-size: clamp(23px, 2.8vw, 31px); line-height: 1.4; font-weight: 500; white-space: nowrap; user-select: text; }
+.contact-copy { display: inline-block; border: 0; border-bottom: 1px solid var(--accent); padding: 5px 0; background: transparent; color: #555; font: 14px Inter, Arial, sans-serif; cursor: pointer; }
+.contact-copy-status { display: block; min-height: 24px; padding-top: 3px; font-size: 13px; }
+.contact-page .contact-whatsapp { display: block; text-align: center; margin-top: 18px; color: #fff; }
+.contact-direct-note { margin: 18px 0 0; font-size: 14px; }
+.contact-info-row { padding: 0 0 24px; margin-bottom: 24px; border-bottom: 1px solid var(--brand-line); }
+.contact-info-row:last-child { margin-bottom: 0; padding-bottom: 0; border-bottom: 0; }
+.contact-info-row h3 { margin: 0 0 8px; font: 600 17px/1.4 Inter, Arial, sans-serif; }
+.contact-info-row p { margin: 0; }
+.contact-quote-link { margin-top: 12px; }
+.contact-page a:focus-visible, .contact-copy:focus-visible { outline: 2px solid var(--accent); outline-offset: 5px; }
+
+@media (min-width: 761px) and (max-width: 991px) {
+  
+  
+  
+  
+  .contact-about { gap: 35px; }
+  .contact-layout { gap: 30px; }
+  .contact-direct { padding: 26px; }
+}
+@media (max-width: 760px) {
+  
+  
+  .contact-main { padding: 38px 20px 50px; }
+  .contact-about { grid-template-columns: 1fr; gap: 28px; }
+  .contact-about h1 { margin: 14px 0 22px; }
+  .contact-about-photo img { max-height: 430px; }
+  .contact-details { margin-top: 48px; padding-top: 36px; }
+  .contact-details h2 { font-size: 28px; }
+  .contact-details-heading { text-align: left; margin-bottom: 28px; }
+  .contact-layout { grid-template-columns: 1fr; gap: 32px; }
+  .contact-direct { padding: 26px 22px; }
+}

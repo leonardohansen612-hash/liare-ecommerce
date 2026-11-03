@@ -1,0 +1,23 @@
+/* Swipeable mobile hero; indicators sit over the full-height photograph. */
+.hero-mobile-track{display:none}@media(max-width:760px){.hero>.hero-image,.hero>.slide-prev,.hero>.slide-next{display:none}.hero-mobile-track{display:flex;position:absolute;inset:0;width:100%;height:100%;overflow-x:auto;scroll-snap-type:x mandatory;scrollbar-width:none;overscroll-behavior-x:contain}.hero-mobile-track::-webkit-scrollbar{display:none}.hero-mobile-slide{position:relative;flex:0 0 100%;height:100%;scroll-snap-align:start;scroll-snap-stop:always;overflow:hidden}.hero-mobile-slide img{display:block;width:100%;height:100%;object-fit:cover;object-position:center;user-select:none}.hero .slide-dots{bottom:12px;margin:0;gap:0;z-index:3}.hero .slide-dots button{display:grid;place-items:center;width:28px;height:28px;border:0;background:none;border-radius:0}.hero .slide-dots button:before{content:"";width:8px;height:8px;border:1px solid white;border-radius:50%;background:#0002;box-shadow:0 1px 3px #0003}.hero .slide-dots button[aria-pressed=true]{background:none}.hero .slide-dots button[aria-pressed=true]:before{background:white}.hero .slide-dots button:focus-visible{outline:2px solid white;outline-offset:-2px}}
+
+@media(max-width:760px){.categories{padding-left:14px;padding-right:14px;scroll-padding-inline:14px}}
+
+.hero-mobile-slide img[src="produto-castical-lapidado-pera-silvestre-1.webp"]{object-position:50% 70%}
+@media(max-width:760px){.hero-mobile-slide img[src="hero-liare-ambiente-aconchegante.webp"]{object-position:73.5% center}}
+
+/* Keep the lilac bouquet in focus in the event banner. */
+.hero-image img[src="buque-lembranca-lilas-20261008.webp"]{object-position:50% 65%}
+@media(max-width:760px){.hero-mobile-slide img[src="buque-lembranca-lilas-20261008.webp"]{object-position:35% 60%}}
+
+/* Use the portrait campaign on phones and its wide composition on larger screens. */
+.hero-mobile-slide picture{display:block;width:100%;height:100%}
+.hero-image img[src="hero-milkshake-morango-20261015.webp"]{object-position:76% center}
+.hero-image img[src="hero-milkshake-chocolate-20261022.webp"]{object-position:78% center}
+@media(min-width:541px) and (max-width:760px){.hero-mobile-slide img[src="produto-milkshake-morango-campanha-20261015.webp"]{object-position:90% center}}
+@media(min-width:541px) and (max-width:760px){.hero-mobile-slide picture:has(img[src="produto-milkshake-chocolate-principal-20261022.webp"]) img{object-position:78% center}}
+
+/* Discovery campaign: live copy sits on the photograph's clear stone surface. */
+@media(min-width:761px){.hero[data-campaign="discovery"] .hero-image:after{display:none}.hero[data-campaign="discovery"] .hero-copy{color:#642936;max-width:29%;top:37%}.hero[data-campaign="discovery"] h1{font-size:clamp(28px,3.4vw,48px);line-height:1.14}.hero[data-campaign="discovery"] .hero-label{font-size:clamp(13px,1.3vw,18px);line-height:1.5;max-width:290px}.hero-image img[src="hero-caixa-descobertas-desktop-peonias-inteira-20261103.webp"]{object-position:center}}
+@media(min-width:541px) and (max-width:760px){.hero-mobile-slide picture:has(img[src="hero-caixa-descobertas-mobile-rotulos-20261029-v2.webp"]) img{object-position:73% center}}
+@media(min-width:761px) and (max-width:991px){.hero[data-campaign="discovery"] .hero-copy{top:30%;max-width:31%}.hero[data-campaign="discovery"] .hero-label{margin-bottom:14px}}
